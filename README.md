@@ -27,9 +27,9 @@
 
 > We extract the factor tables such as Sex, Race, Age, Edu, and State to investigate the information about each group and  preparing for further visualization and machine learning model training. (test_revised_Shery.ipynb is the file to extract and clean the factor tables)
 
-### Project Location: 	[Github.com/Final_project](https://github.com/IrfanSayeed/Final_project.git) **
-### Source Files: 	    [Github.com/Final_project](https://github.com/mogazz69/Final_project/tree/main/Resources) **
-### Database Location: 	[[Github.com/Final_project](https://github.com/mogazz69/Final_project/tree/main/Database) **
+### Project Location: 	[Github.com/Final_project] (https://github.com/IrfanSayeed/Final_project.git) **
+### Source Files: 	    [Github.com/Final_project//Resources/] (https://github.com/mogazz69/Final_project/tree/main/Resources) **
+### Database Location: 	[[Github.com/Final_project] (https://github.com/mogazz69/Final_project/tree/main/Database) **
 ### Branch: **
 ![Branches by member](https://github.com/mogazz69/Final_project/blob/main/Database/Branches.PNG)
 
